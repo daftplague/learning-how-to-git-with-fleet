@@ -20,7 +20,7 @@ agent_options:
 controls:
   macos_settings:
     custom_settings:
-      path: /Users/merchant/Documents/GitHub/learning-how-to-git-with-fleet/lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
+      - path: /Users/merchant/Documents/GitHub/learning-how-to-git-with-fleet/lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
   macos_updates:
     deadline: "2025-08-21"
     minimum_version: "16.0"
